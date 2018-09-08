@@ -1,0 +1,6 @@
+{
+    "name": "Pinatra/demo0",
+    "require": {
+        "pinatra/framework": "dev-master"
+    }
+}
